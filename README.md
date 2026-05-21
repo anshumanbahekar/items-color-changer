@@ -37,4 +37,4 @@ Building this project helped me wrap my head around several core web development
 
 ---
 
-## 📁 Have a look - https://anshumanbahekar.github.io/items-color-changer/
+### 📁 Have a look - https://anshumanbahekar.github.io/items-color-changer/
